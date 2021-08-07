@@ -1,2 +1,2 @@
 # git-github
-GituHub Practise
+This is for tutorial Purpose
